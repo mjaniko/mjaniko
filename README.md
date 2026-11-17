@@ -6,12 +6,6 @@ I am a passionate backend engineer with a strong focus on building scalable, rel
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mjaniko" alt="mjaniko" /></a> </p>
 
-- 🔭 I'm currently working on **Everest**
-
-- 👯 I'm looking to collaborate on **Web3**
-
-- 📫 How to reach me **mjaniko@gmail.com**
-
 ### Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/mikheil-janiashvili-b51903b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikheil-janiashvili" height="30" width="40" /></a>
